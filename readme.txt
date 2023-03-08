@@ -1,8 +1,7 @@
 
 This applications permits to interogate ChatGPT from desktop.
 
-![Alt text](screen.png?raw=true "Screenshot")
-
+![Screenshot](screen.png)
 # Install it
 git clone https://github.com/nblaudez/chatTools.git
 cd chatTools
