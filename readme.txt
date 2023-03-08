@@ -16,7 +16,6 @@ python3 ChatTools.py &
 
 
 # todo
-
 contextual menu on right click on icon to close application
 Launch in background (demonize the application)
 
