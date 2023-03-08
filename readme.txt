@@ -3,8 +3,8 @@ Greets to Patou
 
 
 # Install it
-git clone https://github.com/nblaudez/chatgpt-qt.git
-cd chatgpt-qt
+git clone https://github.com/nblaudez/chatTools.git
+cd chatTools
 pip3 install -r requirement.txt
 
 # configuration
