@@ -8,6 +8,7 @@ cd chatTools
 pip3 install -r requirement.txt
 
 # configuration
+create an api key on https://platform.openai.com/account/api-keys
 change line  2 in chatgpt.py
 
 # launch it
